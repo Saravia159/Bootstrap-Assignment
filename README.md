@@ -1,6 +1,6 @@
 # User Story
 
-As a user, I want to create a web-page to change the color of the boxes individually and all together. In addition, being able to hide all boxes and individually.
+As a user, I want to create a web-page to change the color of the boxes individually and all together. In addition, being able to hide boxes individually and all together.
 
 [GitHub repository](https://saravia159.github.io/Bootstrap-Assignment/)
 
